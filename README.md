@@ -15,3 +15,12 @@ The flow of the Notebook is as follows:
 - The dataset is taken from Yahoo API and saved in the `Amazon.csv` file. The closing values are given in the `Close.csv` file.
 - The requirements and dependencies are given in `requirements.txt`. Use `pip install -r requirements.txt` to install the packages and use it.
 - Run the notebook in Jupyter or Colab and see the results.
+
+## Prediction:
+![Stock Price Prediction](prediction.png)
+
+## Contributors
+Avik Das @kivaissad
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
